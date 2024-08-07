@@ -1,6 +1,5 @@
 /**
  * Variables Color Scroll 1.0.2
- * Copyright 2023 Timothy Ricks
  * Released under the MIT License
  * Released on: December 16, 2023
  */
